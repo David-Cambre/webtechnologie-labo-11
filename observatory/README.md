@@ -2,19 +2,6 @@
 
 Je bouwt een responsive _one-pager_ voor een publieke sterrenwacht in Antwerpen. Bijna alle onderwerpen die je tot nu toe gezien hebt komen hier samen: de pagina gebruikt **CSS Grid** voor het kaartenraster, bevat een **tabel** en een **formulier**, en is strikt **mobile first** opgebouwd.
 
-## Extra: samenwerken
-
-Maak deze oefening per twee. Spreek onderling af wie aan welke sectie begint,
-zodat jullie niet tegelijk dezelfde code aanpassen.
-
-Maak regelmatig kleine, duidelijke commits. Push en pull vaak, zodat jullie
-wijzigingen gesynchroniseerd blijven en merge conflicts tot een minimum
-beperkt blijven.
-
-Jullie kiezen zelf hoe jullie samenwerken: met pull requests of door
-rechtstreeks naar `main` te pushen. Spreek vooraf af welke werkwijze jullie
-gebruiken.
-
 ## Wat krijg je
 
 In de map `startbestanden/` vind je:
